@@ -5,8 +5,8 @@
 <h4 align="center">Profile stats </h4>
 
 <p align="center">
-  <a href="https://github.com/ReygaElkigia/"><img src="https://github-readme-stats.vercel.app/api?username=kevineyon1&count_private=true&theme=algolia&show_icons=true" height="160" /></a>
-  <a href="https://github.com/ReygaElkigia/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevineyon1&count_private=true&theme=algolia&layout=compact"         height="160" /></a>
+  <a href="https://github.com/ReygaElkigia/"><img src="https://github-readme-stats.vercel.app/api?username=ReygaElkigia&count_private=true&theme=algolia&show_icons=true" height="160" /></a>
+  <a href="https://github.com/ReygaElkigia/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReygaElkigia&count_private=true&theme=algolia&layout=compact"         height="160" /></a>
 </p>
 
 
