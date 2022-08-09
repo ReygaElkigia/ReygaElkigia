@@ -5,8 +5,8 @@
 <h4 align="center">Profile stats </h4>
 
 <p align="center">
-  <a href="https://github.com/kevineyon1/"><img src="https://github-readme-stats.vercel.app/api?username=kevineyon1&count_private=true&theme=algolia&show_icons=true" height="160" /></a>
-  <a href="https://github.com/kevineyon1/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevineyon1&count_private=true&theme=algolia&layout=compact"         height="160" /></a>
+  <a href="https://github.com/ReygaElkigia/"><img src="https://github-readme-stats.vercel.app/api?username=kevineyon1&count_private=true&theme=algolia&show_icons=true" height="160" /></a>
+  <a href="https://github.com/ReygaElkigia/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevineyon1&count_private=true&theme=algolia&layout=compact"         height="160" /></a>
 </p>
 
 
@@ -31,4 +31,4 @@
   <br/>
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{kevineyon1}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{ReygaElkigia}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
