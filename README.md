@@ -1,16 +1,34 @@
-### Hi there 👋
+# HI, I'M Reyga
 
-<!--
-**ReygaElkigia/ReygaElkigia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">About me :monkey:</h2>
+<p>
+<h4 align="center">Profile stats </h4>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/kevineyon1/"><img src="https://github-readme-stats.vercel.app/api?username=kevineyon1&count_private=true&theme=algolia&show_icons=true" height="160" /></a>
+  <a href="https://github.com/kevineyon1/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevineyon1&count_private=true&theme=algolia&layout=compact"         height="160" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+<p align="center">
+ 
+ <a href="https://www.linkedin.com/in/kevin-gideon-004425174/" target="blank">
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ 
+ <a href="https://www.instagram.com/kevin.eyon/" target="blank">
+  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+
+  <a href="mailto:kevingideon123@gmail.com" target="blank">
+  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> &nbsp; &nbsp;
+ </a>
+
+  <br/>
+  <br/>
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{kevineyon1}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
